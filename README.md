@@ -1,3 +1,4 @@
 # LLMapi
-cd LLMapi 
-flask run
+ cd LLMapi 
+# run
+ flask run
